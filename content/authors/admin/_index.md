@@ -46,7 +46,7 @@ education:
   - area: PhD Computer Science
     institution: National University of Singapore
     date_start: 2018-08-01
-    date_end: 2024-12-31
+    date_end: 2024-10-31
     summary: |
       Thesis: Scaling up decision-making under uncertainty
   - area: MSc Computer Science
