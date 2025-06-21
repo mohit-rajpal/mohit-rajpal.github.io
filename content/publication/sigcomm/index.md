@@ -10,5 +10,5 @@ date: '2025-01-01'
 publishDate: '2024-10-14T03:08:40.943598Z'
 publication_types:
 - paper-conference
-publication: '*Proc. MobiComm*'
+publication: '*Proc. SigComm*'
 ---
