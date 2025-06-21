@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm a Postdoc at Singapore-ETH Centre. During my studies I focused on scaling up decision-making under uncertainty. In my past life, I was a Software Engineer.
+        I will be soon looking for work as a research scientist. During my studies I focused on scaling up decision-making under uncertainty. In my past life, I was a Software Engineer.
 
-        I'm excited about Machine Learning Systems, Machine Learning for Systems, Bayesian Optimization, and Gaussian Processes.
+        I'm excited about Machine Learning Systems, Bayesian Optimization, and Gaussian Processes.
     design:
       columns: '1'
   - block: collection
