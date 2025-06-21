@@ -1,5 +1,5 @@
 ---
-title: SaTE: Low-latency traffic engineering for satellite networks
+title: 'SaTE: Low-latency traffic engineering for satellite networks'
 authors:
 - Hao Wu
 - Yizhan Han
