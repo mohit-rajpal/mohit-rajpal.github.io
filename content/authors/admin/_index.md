@@ -16,19 +16,12 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Role/position/tagline
-role: Postdoc
-
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: Singapore-ETH Centre
-    url: https://sec.ethz.ch/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:mohit.rajpal@sec.ethz.ch'
+    url: 'mailto:mohit_rajpal@outlook.com'
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/mohit-rajpal
@@ -38,7 +31,6 @@ profiles:
 
 interests:
   - Machine Learning Systems
-  - Machine Learning for Systems
   - Bayesian Optimization
   - Gaussian Processes
 
@@ -67,6 +59,15 @@ education:
       - Embedded Systems
 
 work:
+  - position: Postdoctoral Researcher
+    company_name: Singapore-ETH Centre
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-03-03
+    date_end: 2025-05-31
+    summary: |2-
+      Responsibilities include:
+      - Architecture design and grant writing for foundation models in healthcare
   - position: Research Contractor
     company_name: Microsoft Research
     company_url: ''
