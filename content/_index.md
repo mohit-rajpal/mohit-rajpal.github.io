@@ -16,7 +16,7 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Perennially out of date CV
+        text: Up to date academic CV
         url: uploads/mohitrajpal_cv.pdf
     design:
       css_class: dark
@@ -35,9 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I will be soon looking for work as a research scientist. During my studies I focused on scaling up decision-making under uncertainty. In my past life, I was a Software Engineer.
-
-        I'm excited about Machine Learning Systems, Bayesian Optimization, and Gaussian Processes.
+        I am an Experienced Machine Learning Scientist/Engineer, scaling high-impact, safety-critical solutions into deployable systems for healthcare, cybersecurity, and finance. I'm actively looking for work, please email me!
     design:
       columns: '1'
   - block: collection
