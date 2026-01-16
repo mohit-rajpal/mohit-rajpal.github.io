@@ -10,5 +10,8 @@ date: '2025-01-01'
 publishDate: '2024-10-14T03:08:40.943598Z'
 publication_types:
 - paper-conference
-publication: '*Proc. SigComm*'
+publication: '*ACM SigComm*'
+links:
+- name: URL
+  url: https://dl.acm.org/doi/pdf/10.1145/3718958.3750524
 ---
