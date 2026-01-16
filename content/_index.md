@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am an Experienced Machine Learning Scientist/Engineer, scaling high-impact, safety-critical solutions into deployable systems for healthcare, cybersecurity, and finance. I'm actively looking for work, please email me!
+        I am an experienced Machine Learning Scientist/Engineer, scaling high-impact, safety-critical solutions into deployable systems for healthcare, cybersecurity, and finance. I'm actively looking for work, please email me!
     design:
       columns: '1'
   - block: collection
